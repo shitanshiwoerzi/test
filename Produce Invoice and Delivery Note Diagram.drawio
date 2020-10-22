@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2020-10-22T10:37:34.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.8.1" etag="lJM79MDnUsNOGft-J7v5" type="github"><diagram id="IVnHRljdAFKbAdrBhJ85">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-22T10:52:30.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="nhdr_wZRJhw0wASNipdP" version="13.8.1" type="github">
+  <diagram id="IVnHRljdAFKbAdrBhJ85" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="10N3Fysp4wq7dz-39kzq-2" value="Pool" style="swimlane;html=1;horizontal=0;startSize=20;" vertex="1" parent="1">
+          <mxGeometry y="220" width="1000" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="10N3Fysp4wq7dz-39kzq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="10N3Fysp4wq7dz-39kzq-2" source="10N3Fysp4wq7dz-39kzq-1" target="10N3Fysp4wq7dz-39kzq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10N3Fysp4wq7dz-39kzq-1" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=general;" vertex="1" parent="10N3Fysp4wq7dz-39kzq-2">
+          <mxGeometry x="60" y="60" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="10N3Fysp4wq7dz-39kzq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="10N3Fysp4wq7dz-39kzq-2" source="10N3Fysp4wq7dz-39kzq-3" target="10N3Fysp4wq7dz-39kzq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10N3Fysp4wq7dz-39kzq-3" value="Receive completed order" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="10N3Fysp4wq7dz-39kzq-2">
+          <mxGeometry x="170" y="55" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="10N3Fysp4wq7dz-39kzq-5" value="Compare with original order" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="10N3Fysp4wq7dz-39kzq-2">
+          <mxGeometry x="300" y="55" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
