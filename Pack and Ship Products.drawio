@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T14:34:53.734Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="MkIw-R0Xz3u8vZ7y3Mie" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-30T14:35:43.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="7D0S2CeC5txri1yHnBA0" version="13.8.8" type="github">
   <diagram id="y6UEvjkFGSSqOhaioVO-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,7 +66,7 @@
             <mxPoint x="7" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="80DPC7aocMvaC6fDKEws-37" value="Invoice for COD" style="shape=note;whiteSpace=wrap;size=16;html=1;dropTarget=0;fillColor=#FFFFFF;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="80DPC7aocMvaC6fDKEws-37" value="Invoice (for COD)" style="shape=note;whiteSpace=wrap;size=16;html=1;dropTarget=0;fillColor=#FFFFFF;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="180" y="50" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="80DPC7aocMvaC6fDKEws-38" value="" style="html=1;shape=singleArrow;arrowWidth=0.4;arrowSize=0.4;outlineConnect=0;" vertex="1" parent="80DPC7aocMvaC6fDKEws-37">
